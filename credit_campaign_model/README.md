@@ -56,5 +56,5 @@ jupyter notebook notebooks/01_credit_campaign_EDA_Modeling.ipynb
 
 ## ✨ Autor
 **Martin Adolfo Delgado Huayhua**  
-Senior Data Scientist | People Analytics & CRM Modeling  
+Senior Data Scientist 
 [LinkedIn](https://www.linkedin.com/in/martindelhu13) | [GitHub](https://github.com/MartinAdolfoDelgadoHuayhua)
